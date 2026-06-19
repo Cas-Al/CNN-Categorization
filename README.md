@@ -208,5 +208,3 @@ All class probabilities:
 - Dataset link / images folder
 
 ---
-
-I couldn't add dataset folder as its size is in Gb so i have attached the dataset folder link in this file.
