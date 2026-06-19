@@ -1,9 +1,8 @@
 
 # PRISMA Fest Image Classifier — CNN
-### Assignment: Image Classification using Convolutional Neural Networks
-**SRM University Haryana | PRISMA Fest Scenario**
-**Name- Alan K Abraham**
-**Reg no.- 10323210013**
+### Image Classification using Convolutional Neural Networks
+**PRISMA Fest Scenario**
+
 
 ---
 
