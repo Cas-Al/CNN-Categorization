@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Environment files
+.env
+
+# VSCode
+.vscode/
+
+# macOS
+.DS_Store
+
+# Data and model artifacts
+/dataset/
+/raw_dataset/
+/predictionimg/
+/predictimg2/
+/predictionimg/
+/predi4/
+/predictionimg2/
+/predictionimg/
+/predictionimg/
+*.h5
+*.pt
+*.pth
+*.ckpt
+
+# Jupyter
+.ipynb_checkpoints
+
+# Logs
+*.log
